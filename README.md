@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github account. I hope you find something insightful through my account.
 
 <!--
 **aashutoshgourav/aashutoshgourav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
